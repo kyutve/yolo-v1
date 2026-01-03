@@ -1,5 +1,5 @@
 # Deep Learning Project
-Dataset : BDD100K , COCO
+Dataset : BDD100K (Yolov8 labeling, Custom label data) , COCO
 
 Preprocess : Resize, Augmentation, Boundingbox
 
