@@ -1,0 +1,2 @@
+Saved config.json
+[Epoch 1/1] Step 20/88 | Loss=5.1708 | LR=0.0001
